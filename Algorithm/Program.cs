@@ -3,4 +3,8 @@
 //Console.WriteLine("Hello, Alg!");
 
 //BinSearch.run();
-RemoveElementsFromArray.Run();
+//RemoveElementsFromArray.Run();
+//SquareOfSortedArray.Run();
+//MinChildArray.Run();
+//SumOfArraySection.Run();
+SeparateWeightedElement.Run();

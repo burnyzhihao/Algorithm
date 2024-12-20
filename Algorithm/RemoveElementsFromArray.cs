@@ -1,7 +1,7 @@
 using System;
 
 namespace Algorithm;
-
+//从数组中移除制定元素，不适用额外空间
 public class RemoveElementsFromArray
 {
     public static int DoublePointer(int[] data, int target){

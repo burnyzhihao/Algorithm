@@ -1,7 +1,7 @@
 using System;
 
 namespace Algorithm;
-
+//二分查找
 public class BinSearch
 {
     public static void run(){
