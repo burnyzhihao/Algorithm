@@ -7,4 +7,7 @@
 //SquareOfSortedArray.Run();
 //MinChildArray.Run();
 //SumOfArraySection.Run();
-SeparateWeightedElement.Run();
+//SeparateWeightedElement.Run();
+//SpiralMatrix.Run();
+//RemoveFromLinkedList.Run();
+InverseLinkedList.Run();
