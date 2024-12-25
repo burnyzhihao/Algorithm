@@ -10,4 +10,6 @@
 //SeparateWeightedElement.Run();
 //SpiralMatrix.Run();
 //RemoveFromLinkedList.Run();
-InverseLinkedList.Run();
+//InverseLinkedList.Run();
+//ExchangeNode2By2.Run();
+RmoveFromReverse.Run();
