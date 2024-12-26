@@ -33,6 +33,7 @@ public class Node<T>(T data)
             Console.Write(" ");
             node = node.Next;
         }
+        Console.WriteLine();
     } 
     public Node<T> Inverse(){
         Node<T> pre=null;
@@ -44,5 +45,14 @@ public class Node<T>(T data)
             cur = temp;
         }
         return pre;
+    }
+    public int Length(){
+        int len = 0;
+        var node = this;
+        while(node!=null){
+            len++;
+            node = node.Next;
+        }
+        return len;
     }
 }
