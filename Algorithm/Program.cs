@@ -13,4 +13,9 @@
 //InverseLinkedList.Run();
 //ExchangeNode2By2.Run();
 //RmoveFromReverse.Run();
-FindIntersection.Run();
+//FindIntersection.Run();
+//DetectLinkCycle.Run();
+//ArePossitionDiffWords.Run();
+//FindCommonLetters.Run();
+//FindIntersectionOfArray.Run();
+HappyNumber.Run();
