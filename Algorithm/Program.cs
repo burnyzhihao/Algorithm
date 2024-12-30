@@ -18,4 +18,5 @@
 //ArePossitionDiffWords.Run();
 //FindCommonLetters.Run();
 //FindIntersectionOfArray.Run();
-HappyNumber.Run();
+//HappyNumber.Run();
+FindNumbersForSum.Run();
