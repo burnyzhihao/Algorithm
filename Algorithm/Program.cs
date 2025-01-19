@@ -19,4 +19,8 @@
 //FindCommonLetters.Run();
 //FindIntersectionOfArray.Run();
 //HappyNumber.Run();
-FindNumbersForSum.Run();
+//FindNumbersForSum.Run();
+//SumOf4ElemsFrom4Array.Run();
+//RansomAndMagzine.Run();
+//SumOfThreeElements.Run();
+SumOfFourNumberToSpecifiedValue.Run();
