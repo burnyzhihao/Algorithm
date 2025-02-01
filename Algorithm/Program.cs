@@ -23,4 +23,12 @@
 //SumOf4ElemsFrom4Array.Run();
 //RansomAndMagzine.Run();
 //SumOfThreeElements.Run();
-SumOfFourNumberToSpecifiedValue.Run();
+//SumOfFourNumberToSpecifiedValue.Run();
+//ReverseString.Run();
+//ReverseString2.Run();
+//ReplaceNumberWithNumber.Run();
+//RemoveExtraSpaces.Run();
+//ReverseWordsOrderInAString.Run();
+//RightRotateString.Run();
+//FindStrInStr_kmp.Run();
+IsStringComposedOfDuplecateStr.Run();
