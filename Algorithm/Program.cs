@@ -1,4 +1,6 @@
-﻿using Algorithm;
+﻿using System.Collections;
+using Algorithm;
+using Algorithm.stackandqueue;
 // See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, Alg!");
 
@@ -31,4 +33,11 @@
 //ReverseWordsOrderInAString.Run();
 //RightRotateString.Run();
 //FindStrInStr_kmp.Run();
-IsStringComposedOfDuplecateStr.Run();
+//IsStringComposedOfDuplecateStr.Run();
+//QueueByStacks.Run();
+//StackByQueue.Run();
+//MatchingBracket.Run();
+//RemoveNeighboringDuplicateChar.Run();
+//ReversePolandExpression.Run();
+//MaxValueInSidingWindow.Run();
+TopKHighFrequentChar.Run();
